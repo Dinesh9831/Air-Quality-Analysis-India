@@ -16,7 +16,8 @@ This project performs an end-to-end data analysis and machine learning workflow 
 
 ## 📂 Dataset
 
-- **Source:** Air Quality Index India dataset  
+- **Source:** data.gov.in
+- (Air Quality Index India dataset)
 - **Format:** CSV  
 - **Key Features:**
   - Country, State, City, Station  
