@@ -4,6 +4,9 @@ This project performs an end-to-end data analysis and machine learning workflow 
 
 ---
 
+
+![AQI Visualization](aqiimage.jpg)
+
 ## 📌 Project Objectives
 
 - Understand air pollution patterns across different cities and states in India  
@@ -36,3 +39,5 @@ This project performs an end-to-end data analysis and machine learning workflow 
 - Scikit-learn  
 
 ---
+
+
